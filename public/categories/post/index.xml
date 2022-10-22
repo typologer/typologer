@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on typologer.net</title>
+    <link>http://example.org/categories/post/</link>
+    <description>Recent content in post on typologer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Oct 2022 16:33:00 -0700</lastBuildDate><atom:link href="http://example.org/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenam</title>
+      <link>http://example.org/posts/2022-10-20-tenam-studio/</link>
+      <pubDate>Thu, 20 Oct 2022 16:33:00 -0700</pubDate>
+      
+      <guid>http://example.org/posts/2022-10-20-tenam-studio/</guid>
+      <description>Tenam is the ambitious project run by Lexi Pulido.
+She performs every morning at 10AM. 15 minutes of some heart warming, baffling and always beautiful performance art..
+Some performances are silent, some have been rather loud. Some have been poingant and intense while others have been simple and silly.
+Everything is Art.
+Some guest performances I&amp;rsquo;ve seen have included: Katie Berns, Sean Francis Conway and the delightful duo Fancy Nancy and Lucy Loop</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transport-layer on typologer.net</title>
+    <link>http://example.org/tags/transport-layer/</link>
+    <description>Recent content in transport-layer on typologer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 10:49:00 -0700</lastBuildDate><atom:link href="http://example.org/tags/transport-layer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Central Office Buildings</title>
+      <link>http://example.org/posts/2022-06-14-co-buildings/</link>
+      <pubDate>Tue, 14 Jun 2022 10:49:00 -0700</pubDate>
+      
+      <guid>http://example.org/posts/2022-06-14-co-buildings/</guid>
+      <description>Maybe I&amp;rsquo;ve just listened to too much 99% invisible, but infrastructure can feel so mysterious, ubiquitous and underapreciated.
+We sling data around all sorts of ways, and being a programmer I usually stay up at the top of the transport chain. But there are some neat advancements happening down there! Adaptive beam forming, spread spectrum noise avoidance, ever the crazier machines on the other end of some fiber. Seeing the big microwave horns in hillcrest bottom of 619 got me wondering what the physical layer of our internet looks like.</description>
+    </item>
+    
+  </channel>
+</rss>

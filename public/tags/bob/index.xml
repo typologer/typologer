@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bob on typologer.net</title>
+    <link>http://example.org/tags/bob/</link>
+    <description>Recent content in bob on typologer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 10:49:00 -0700</lastBuildDate><atom:link href="http://example.org/tags/bob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Bob Project</title>
+      <link>http://example.org/posts/2022-06-14-bob-project/</link>
+      <pubDate>Tue, 14 Jun 2022 10:49:00 -0700</pubDate>
+      
+      <guid>http://example.org/posts/2022-06-14-bob-project/</guid>
+      <description>What about Bob??
+Everything about Bob!
+This beautiful weirdo has been putting out a calendar for almost 20 years.
+Why??
+Bob!</description>
+    </item>
+    
+  </channel>
+</rss>

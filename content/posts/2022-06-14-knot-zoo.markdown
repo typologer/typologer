@@ -1,0 +1,28 @@
+---
+layout: typology
+title: Knot Zoo
+link: https://www.knotplot.com/zoo/
+date:   2022-06-14 10:50:00 -0700
+permalink: /knot-zoo/
+categories: typology
+tags:
+  - knot-theory
+  - knots
+  - math
+  - pretty
+  - technically-finite
+  - weirdly-useful
+---
+This one can be fun even if you aren't into Math, just cuz it's pretty...
+
+This is a list of mathematical knots, not the more useful ones like a bowline.
+Usually in text books, these knots are drawn flat, but it's cool to see some 3d models that you can rotate.
+
+Billions of knots have been listed, but it's a computationally challenging field.
+
+Computation and textiles go way back
+
+Comparing equivalence can be challenging. For example the [Perko Pair](https://en.wikipedia.org/wiki/Perko_pair).
+I was only kind of able to get Knot Plot working on my Linux box, but it's pretty cool to be able to dial up any that you want to check out!
+
+There are some other highlights on the Knot Plot site like these [carpets](https://www.knotplot.com/carpets/knot-carpets.html)

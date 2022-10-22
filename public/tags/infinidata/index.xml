@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infinidata on typologer.net</title>
+    <link>http://example.org/tags/infinidata/</link>
+    <description>Recent content in infinidata on typologer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 10:48:00 -0700</lastBuildDate><atom:link href="http://example.org/tags/infinidata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DB Engines</title>
+      <link>http://example.org/posts/2022-06-14-db-engines/</link>
+      <pubDate>Tue, 14 Jun 2022 10:48:00 -0700</pubDate>
+      
+      <guid>http://example.org/posts/2022-06-14-db-engines/</guid>
+      <description>This is more in the vein of &amp;lsquo;very literal&amp;rsquo; or &amp;lsquo;too clever&amp;rsquo;, but I do come back to this website often. It would also be an egregious mistake if I couldn&amp;rsquo;t make the shittiest pun of a database of databases having a database of databases. Databases are some of the most advanced pieces of software we have available to us and there is some pretty suprising development in the field, especially around different types of data like objects, timeseries, lossy (whisper is neat), GIS and wide columns.</description>
+    </item>
+    
+  </channel>
+</rss>

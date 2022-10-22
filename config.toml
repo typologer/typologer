@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'typologer.net'
+theme = "mainroad"
+paginate = 10
+googleAnalytics = "G-6D3QEDJ2BR"
+
+[Author]
+  name = "Juniper Grato"
+  bio = "The typologer has their technical blog at [approaching236](https://www.approaching236.com/)"
+
+[Params]
+  description = "a celebration of the monomoniacal"
+
+[Params.logo]
+  title = "typologer.net"
+  subtitle = 'a celebration of the monomaniacal'
+
+[Params.sidebar]
+  home = 'right'
+  list = 'left'
+  single = false
+  widgets = ['search', 'recent', 'categories', 'taglist', 'social', 'languages']

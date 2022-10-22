@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weirdly-useful on typologer.net</title>
+    <link>http://example.org/tags/weirdly-useful/</link>
+    <description>Recent content in weirdly-useful on typologer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2022 10:50:00 -0700</lastBuildDate><atom:link href="http://example.org/tags/weirdly-useful/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knot Zoo</title>
+      <link>http://example.org/posts/2022-06-14-knot-zoo/</link>
+      <pubDate>Tue, 14 Jun 2022 10:50:00 -0700</pubDate>
+      
+      <guid>http://example.org/posts/2022-06-14-knot-zoo/</guid>
+      <description>This one can be fun even if you aren&amp;rsquo;t into Math, just cuz it&amp;rsquo;s pretty&amp;hellip;
+This is a list of mathematical knots, not the more useful ones like a bowline. Usually in text books, these knots are drawn flat, but it&amp;rsquo;s cool to see some 3d models that you can rotate.
+Billions of knots have been listed, but it&amp;rsquo;s a computationally challenging field.
+Computation and textiles go way back
+Comparing equivalence can be challenging.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,7 @@ tags:
   - pretty
   - technically-finite
   - weirdly-useful
+author: "Juniper Grato"
 ---
 This one can be fun even if you aren't into Math, just cuz it's pretty...
 

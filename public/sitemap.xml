@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/tags/art/</loc>
-    <lastmod>2022-10-20T16:33:00-07:00</lastmod>
+    <lastmod>2024-02-15T14:16:43-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/2024-02-15-lost-found-art/</loc>
+    <lastmod>2024-02-15T14:16:43-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2024-02-15T14:16:43-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2024-02-15T14:16:43-08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2024-02-15T14:16:43-08:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/brick-and-mortar/</loc>
     <lastmod>2022-10-20T16:33:00-07:00</lastmod>
@@ -17,16 +29,7 @@
     <loc>http://example.org/tags/performance/</loc>
     <lastmod>2022-10-20T16:33:00-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-10-20T16:33:00-07:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2022-10-20T16:33:00-07:00</lastmod>
-  </url><url>
     <loc>http://example.org/posts/2022-10-20-tenam-studio/</loc>
-    <lastmod>2022-10-20T16:33:00-07:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
     <lastmod>2022-10-20T16:33:00-07:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/typology/</loc>
@@ -120,9 +123,6 @@
     <lastmod>2022-06-14T10:48:00-07:00</lastmod>
   </url><url>
     <loc>http://example.org/posts/2022-06-14-db-engines/</loc>
-    <lastmod>2022-06-14T10:48:00-07:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/document/</loc>
     <lastmod>2022-06-14T10:48:00-07:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/infinidata/</loc>

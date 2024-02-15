@@ -6,7 +6,18 @@
     <description>Recent content on typologer.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2022 16:33:00 -0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 14:16:43 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost Found Art</title>
+      <link>http://example.org/posts/2024-02-15-lost-found-art/</link>
+      <pubDate>Thu, 15 Feb 2024 14:16:43 -0800</pubDate>
+      
+      <guid>http://example.org/posts/2024-02-15-lost-found-art/</guid>
+      <description>Lost Found Art
+Rad collection of artistic typologies. Some industrial, industrial, and everyday objects collected into tidy little typologies!
+Found over on Kottke</description>
+    </item>
+    
     <item>
       <title>Tenam</title>
       <link>http://example.org/posts/2022-10-20-tenam-studio/</link>
@@ -26,7 +37,7 @@ Some guest performances I&amp;rsquo;ve seen have included: Katie Berns, Sean Fra
       <pubDate>Mon, 17 Oct 2022 22:29:00 -0700</pubDate>
       
       <guid>http://example.org/posts/2022-10-17-lost-san-diego/</guid>
-      <description>San Diego, like all cities, has been built and re-built over the years. The [Save Our Heritage Organisation]({{ page.link }}) (SOHO) tries to keep some of the more interesting bits of architecture around for all to enjoy, but some do get lost to history.
+      <description>San Diego, like all cities, has been built and re-built over the years. The Save Our Heritage Organisation (SOHO) tries to keep some of the more interesting bits of architecture around for all to enjoy, but some do get lost to history.
 Normal School blew me away. I&amp;rsquo;d seen the annex driving between North Park and Hillcrest, but I did&amp;rsquo;nt realize it was the locker room to this grand building that has since been torn down in favor of trailers.</description>
     </item>
     
